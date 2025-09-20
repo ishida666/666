@@ -18,4 +18,4 @@ c=a+b
 [дота](https://www.cybersport.ru/tags/dota-2)
 
 [^1]: Сноска
-![КОТИК](КОТИК.jfif)
+![КОТИК]("D:\ishida666\КОТИК.jpeg")
