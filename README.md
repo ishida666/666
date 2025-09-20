@@ -14,3 +14,5 @@ c=a+b
 >цитата
 продолжение
 >>вложенная цитата
+
+[дота](https://www.cybersport.ru/tags/dota-2)
