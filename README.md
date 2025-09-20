@@ -16,3 +16,5 @@ c=a+b
 >>вложенная цитата
 
 [дота](https://www.cybersport.ru/tags/dota-2)
+
+[^1]Сноска
