@@ -17,4 +17,4 @@ c=a+b
 
 [дота](https://www.cybersport.ru/tags/dota-2)
 
-[^1]Сноска
+[^1]: Сноска
